@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://lanyard.kyrie25.me/api/216282035503890442?waveColor=86D3FF&waveSpotifyColor=124FB3&gradient=0F3CFF-35A6FF-4BFFFF&imgStyle=square" alt="f4id discord profile"/>
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/indo) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Faidharrahman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_faidharrahman) 
