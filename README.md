@@ -4,4 +4,5 @@
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f4id&theme=algolia" alt="Ritshu github summary"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f4id&theme=react-dark" alt="Ritshu github graph"/>
 </p>
